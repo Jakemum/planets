@@ -7,3 +7,6 @@ good way
 Ok
 
 Hello there Jakemum.  I am adding text to your file.
+
+
+This is an exercise in 
